@@ -1,0 +1,14 @@
+aller dans Active directory users and Computers 
+clique droit sur wilder.lan 
+ajouter une nouvelle unité d'organisation appelée wilders.students 
+clique droit wilders.students 
+creer un nouveau groupe  students
+clique droit sur le groupe créé 
+aller dans properties 
+selectionner l'onglet members 
+cliquer sur Add 
+entrer le debut du nom du membre à ajouter 
+cliquer sur advanced 
+selectionner le user à jouter au groupe 
+cliquer sur apply puis ok 
+lorsqu on clique à nouveau sur le groupe , dans l'onglet members on y voit le user qui a été ajouté 
